@@ -31,3 +31,4 @@ console.log(vivek.hasOwnProperty("species"));
 console.log(vivek.hasOwnProperty("firstname"));
 
 console.dir(Person.prototype);
+console.log(Person.prototype);
