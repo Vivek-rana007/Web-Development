@@ -384,7 +384,7 @@ rivian
   .accelerate()
   .accelerate()
   // .accelerate()
-  .brake()
+  // .brake()
   .chargeBattery(50)
   // .accelerate();
 
