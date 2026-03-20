@@ -383,9 +383,9 @@ console.log(rivian);
 rivian
   .accelerate()
   .accelerate()
-  .accelerate()
+  // .accelerate()
   .brake()
   .chargeBattery(50)
-  .accelerate();
+  // .accelerate();
 
 console.log(rivian.speedUS);
