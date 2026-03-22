@@ -388,4 +388,6 @@ rivian
   .chargeBattery(50)
   .accelerate();
 
-console.log(rivian.speedUS);
+  
+  console.log(rivian.speedUS);
+  console.log(rivian.speedUS);
