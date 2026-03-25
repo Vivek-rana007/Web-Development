@@ -34,7 +34,7 @@ const getCountryData = function (country) {
   });
 };
 
-getCountryData('usa');
 getCountryData('bharat');
 getCountryData('germany');
+getCountryData('usa');
 
