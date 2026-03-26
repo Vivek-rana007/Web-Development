@@ -37,4 +37,6 @@ const getCountryData = function (country) {
 getCountryData('bharat');
 getCountryData('germany');
 getCountryData('usa');
+getCountryData('usa');
+
 
